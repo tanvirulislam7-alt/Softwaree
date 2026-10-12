@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|e:\\c#\\car showroom management system with database 1\\carshowroommanagement.sln 4 (2)\\carshowroommanagement.sln\\windowsformapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\windowsformapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\windowsformapp1\\myinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformapp1\\myinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\windowsformapp1\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformapp1\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\windowsformapp1\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformapp1\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\windowsformapp1\\carbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformapp1\\carbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\windowsformapp1\\alluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformapp1\\alluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\windowsformapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\windowsformapp1\\cardealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformapp1\\cardealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\windowsformapp1\\addcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformapp1\\addcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\windowsformapp1\\myinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformapp1\\myinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\windowsformapp1\\alluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformapp1\\alluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\windowsformapp1\\carbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformapp1\\carbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\windowsformapp1\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformapp1\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\windowsformapp1\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformapp1\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\windowsformapp1\\addcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformapp1\\addcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\windowsformapp1\\cardealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8982A-61A1-4990-83E1-6B40DC601E6B}|WindowsFormApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformapp1\\cardealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarBooking.cs [Design]",
+              "DocumentMoniker": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\CarBooking.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp1\\CarBooking.cs",
+              "ToolTip": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\CarBooking.cs [Design]",
+              "RelativeToolTip": "WindowsFormApp1\\CarBooking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:49:44.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\Registration.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp1\\Registration.cs",
+              "ToolTip": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\Registration.cs",
+              "RelativeToolTip": "WindowsFormApp1\\Registration.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:44:43.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\Registration.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp1\\Registration.cs",
+              "ToolTip": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\Registration.cs [Design]",
+              "RelativeToolTip": "WindowsFormApp1\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:44:36.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyInfo.cs",
+              "DocumentMoniker": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\MyInfo.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp1\\MyInfo.cs",
+              "ToolTip": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\MyInfo.cs",
+              "RelativeToolTip": "WindowsFormApp1\\MyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:17:47.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp1\\Form1.cs",
+              "ToolTip": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:25:07.184Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp1\\Form1.Designer.cs",
+              "ToolTip": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T05:07:06.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp1\\Form1.cs",
+              "ToolTip": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormApp1\\Form1.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAuwIsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T05:05:05.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllUser.cs [Design]",
+              "DocumentMoniker": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\AllUser.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp1\\AllUser.cs",
+              "ToolTip": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\AllUser.cs [Design]",
+              "RelativeToolTip": "WindowsFormApp1\\AllUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T05:51:06.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\Form8.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp1\\Form8.cs",
+              "ToolTip": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\Form8.cs",
+              "RelativeToolTip": "WindowsFormApp1\\Form8.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T05:52:15.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarBooking.cs",
+              "DocumentMoniker": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\CarBooking.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp1\\CarBooking.cs",
+              "ToolTip": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\CarBooking.cs",
+              "RelativeToolTip": "WindowsFormApp1\\CarBooking.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAADwvwgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:49:48.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddCar.cs [Design]",
+              "DocumentMoniker": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\AddCar.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp1\\AddCar.cs",
+              "ToolTip": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\AddCar.cs [Design]",
+              "RelativeToolTip": "WindowsFormApp1\\AddCar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T14:34:48.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarDealer.cs [Design]",
+              "DocumentMoniker": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\CarDealer.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp1\\CarDealer.cs",
+              "ToolTip": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\CarDealer.cs [Design]",
+              "RelativeToolTip": "WindowsFormApp1\\CarDealer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:53:00.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarDealer.cs",
+              "DocumentMoniker": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\CarDealer.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp1\\CarDealer.cs",
+              "ToolTip": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\CarDealer.cs",
+              "RelativeToolTip": "WindowsFormApp1\\CarDealer.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAiwFsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:53:09.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyInfo.cs [Design]",
+              "DocumentMoniker": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\MyInfo.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp1\\MyInfo.cs",
+              "ToolTip": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\MyInfo.cs [Design]",
+              "RelativeToolTip": "WindowsFormApp1\\MyInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:17:40.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Brand.cs [Design]",
+              "DocumentMoniker": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\Brand.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp1\\Brand.cs",
+              "ToolTip": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\Brand.cs [Design]",
+              "RelativeToolTip": "WindowsFormApp1\\Brand.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:07:47.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddCar.cs",
+              "DocumentMoniker": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\AddCar.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp1\\AddCar.cs",
+              "ToolTip": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\AddCar.cs",
+              "RelativeToolTip": "WindowsFormApp1\\AddCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:12:12.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AllUser.cs",
+              "DocumentMoniker": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\AllUser.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp1\\AllUser.cs",
+              "ToolTip": "E:\\c#\\Car Showroom Management System with DataBase 1\\CarShowroomManagement.sln 4 (2)\\CarShowroomManagement.sln\\WindowsFormApp1\\AllUser.cs",
+              "RelativeToolTip": "WindowsFormApp1\\AllUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:14:11.495Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
